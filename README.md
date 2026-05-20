@@ -80,9 +80,8 @@ Produção
 
 ## 🌎 Contato
 
-- 📧 contato@archipixel.dev
-- 💬 Discord: archipixel
-- 🌐 archipixel.dev
+- 📧 contato@archipixel.online
+- 🌐 archipixel.online
 
 ---
 
