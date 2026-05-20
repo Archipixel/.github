@@ -1,7 +1,5 @@
 # 🚀 Archipixel
 
-<img src="https://i.imgur.com/18ZDMdB.jpeg" width="100%" />
-
 <br>
 
 <p align="center">
