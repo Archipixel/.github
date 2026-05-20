@@ -58,7 +58,13 @@ Backend  → Node.js
 Database → PostgreSQL
 DevOps   → Docker
 Version  → Git & GitHub
-📌 Workflow
+```
+
+---
+
+## 📌 Workflow
+
+```txt
 Planejamento
    ↓
 Desenvolvimento
@@ -68,8 +74,18 @@ Code Review
 Deploy
    ↓
 Produção
-🌎 Contato
-📧 contato@archipixel.dev
-💬 Discord: archipixel
-🌐 archipixel.dev
-<p align="center"> Made with 💚 by Archipixel </p> ```
+```
+
+---
+
+## 🌎 Contato
+
+- 📧 contato@archipixel.dev
+- 💬 Discord: archipixel
+- 🌐 archipixel.dev
+
+---
+
+<p align="center">
+  Made with 💚 by Archipixel
+</p>
