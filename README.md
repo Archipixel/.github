@@ -1,11 +1,11 @@
 # 🚀 Archipixel
 
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/.github/main/profile/banner.png" width="100%" />
+<img src="[https://raw.githubusercontent.com/SEU-USUARIO/.github/main/profile/banner.png](https://i.imgur.com/cHb8AlC.png)" width="100%" />
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SEU-USUARIO/.github/main/profile/logo.png" width="140" />
+  <img src="[https://raw.githubusercontent.com/SEU-USUARIO/.github/main/profile/logo.png](https://imgur.com/18ZDMdB)" width="140" />
 </p>
 
 <h1 align="center">Archipixel</h1>
